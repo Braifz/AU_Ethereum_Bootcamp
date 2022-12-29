@@ -1,5 +1,6 @@
-# AU_Ethereum_Bootcamp
-This repository contains the solutions of challenges from Alchemy University Bootcamp Ethereum development.
+# Alchemy University Ethereum Bootcamp
+
+### This repository contains the solutions of challenges from Alchemy University Bootcamp Ethereum development.
 
 [Alchemy university](https://university.alchemy.com/)
 
