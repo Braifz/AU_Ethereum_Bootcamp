@@ -3,6 +3,7 @@ const TARGET_DIFFICULTY =
   BigInt(0x0fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff);
 const MAX_TRANSACTIONS = 10;
 
+// mempool is a place for miners to keep those transactions before adding them to a block
 let mempool = [];
 const blocks = [];
 
